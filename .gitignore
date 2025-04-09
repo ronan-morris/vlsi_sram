@@ -1,3 +1,10 @@
+# Added:
+/dummy
+
+
+
+
+# Below is a gitgnore I found online, but there's probably more to ignore
 *.out
 *.test
 *.xml
