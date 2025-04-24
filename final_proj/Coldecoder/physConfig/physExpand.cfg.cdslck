@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      johannessenj
+HostName                       ece-lnx-08.ad.ufl.edu
+ProcessIdentifier              68577
+ProcessCreationTime_UTC        1744756094
+ProcessCreationTime_Readable   Tue Apr 15 18:28:14 2025 EDT
+AppIdentifier                  /apps/cds/IC618/tools/dfII/bin/64bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /ecel/UFAD/johannessenj/Desktop/VLSI/final_proj/Coldecoder/physConfig/physExpand.cfg
+TimeEditLocked                 Tue Apr 22 17:20:07 2025 EDT
